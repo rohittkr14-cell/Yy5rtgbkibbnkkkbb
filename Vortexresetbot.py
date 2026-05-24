@@ -25,7 +25,7 @@ except ImportError:
 # ─── CONFIG ───────────────────────────────────────────────────────────────
 API_ID = 35964213            # CHANGE - get from my.telegram.org
 API_HASH = "49f6f929d59ba8c565c498015a48adb1"  # CHANGE - get from my.telegram.org
-BOT_TOKEN = "8469093668:AAGb5PfkihSfq7dkp1XirgVZdTmE41RjKOI"
+BOT_TOKEN = "8740023572:AAF86LdK8__D5z3w5aQMX55NhQ9CxRcllk8"
 
 CHANNEL_LINKS = {
     1: {"link": "https://t.me/vrtxportal", "username": "@vrtxportal"},
